@@ -166,7 +166,7 @@ void sort_algorithms(std::ofstream& ofs)
 
 	double intercalaTime;
 	double mergeTime;
-	for(int i = 0; i < 6; i++)
+	for(int i = 0; i <= 6; i++)
 	{
 		std::cout<<"Generando arreglos de tamanio: " << pow(10,i) << std::endl;
 		sorts_algorithm(pow(10,i),20,
