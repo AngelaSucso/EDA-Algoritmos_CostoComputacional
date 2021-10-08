@@ -1,9 +1,3 @@
-/* Gabriela Angel Chipana Perez
-	20192268
-	Estudiante de Ciencia de la Computacion 
-	Universidad Nacional de San Agustin de Arequipa
-*/
-
 #include "generate.hpp"
 
 void generateRandomNumbers(int* array, int  n)
